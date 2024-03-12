@@ -9,7 +9,7 @@ from oci.object_storage.models import CreateBucketDetails
     COMPARMENT_OCID: The comparment_ocid where to create the resources
 '''
 OCI_CONFIG = '~/.oci/config'
-COMPARMENT_OCID = 'jp1.py ocid1.compartment.oc1..aaaaaaaao7hj3a6vn2qmis6g6iifqs2givwb2376mo2cfabtrobj63agrplq'
+COMPARMENT_OCID = 'nnnnnnnn'
 
 
 '''
